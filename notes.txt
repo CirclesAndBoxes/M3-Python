@@ -1,0 +1,19 @@
+I stole a class from Penn State:
+
+https://online.stat.psu.edu/stat510/lesson/1/1.3
+
+AP CS Principles Course:
+https://app.schoology.com/course/6057615802/materials 
+
+Models to learn:
+
+- Linear / Logistic Regression
+- Monte-Carlo simulation
+- Markov Chains
+- Dynamical Systems
+    - Solving for the coefficients
+- Vector Autoregressive Models
+
+
+Other things to learn: 
+- VIRTUAL ENVIRONMENTS AHHHH
