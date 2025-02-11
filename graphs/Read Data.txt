@@ -1,0 +1,3 @@
+To read data from a csv, least_squares_regression:
+least_squares_regression\Logistic.ipynb
+
