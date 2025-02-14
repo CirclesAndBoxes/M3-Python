@@ -14,6 +14,8 @@ Models to learn:
     - Solving for the coefficients
 - Vector Autoregressive Models
 
+Other models Info:
+- https://en.wikipedia.org/wiki/Mathematical_model
 
 Other things to learn: 
 - VIRTUAL ENVIRONMENTS AHHHH
