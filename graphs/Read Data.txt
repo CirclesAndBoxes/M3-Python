@@ -1,3 +1,5 @@
 To read data from a csv, least_squares_regression:
 least_squares_regression\Logistic.ipynb
 
+To read data from an Excel File, see:
+graphs\AADT_plot.ipynb
