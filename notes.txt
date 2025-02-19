@@ -17,5 +17,9 @@ Models to learn:
 Other models Info:
 - https://en.wikipedia.org/wiki/Mathematical_model
 
+Examples:
+- https://immchallenge.org/Contests/2024/Solutions.html
+
+
 Other things to learn: 
 - VIRTUAL ENVIRONMENTS AHHHH

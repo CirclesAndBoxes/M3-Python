@@ -1,0 +1,2 @@
+Grabbed the data from website:
+https://covidtracking.com/about-data/federal-resources#cdc-united-states-covid-19-cases-and-deaths-by-state-over-time
